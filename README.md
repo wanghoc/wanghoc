@@ -1,14 +1,14 @@
-<h1 align="center">Hiii, I'm Quang Học 👋</h1>
+<h1 align="center">Hiii, I'm Quang Học👋</h1>
 <h3 align="center">An IT student from Dalat University. I think I'm a vibe coder 😶‍🌫️</h3>
 
-About me: [My Portfolio](wanghoc.id.vn)
+About me: [My Portfolio](https://wanghoc.id.vn/)
 
 - 🌱 My coding ability is not very good, **But I can analyze requirements quite well.**
   Of course, I can use AI to build a proficient system.
 - 📫 Contact to me at: **trieuquanghocts@gmail.com**
   
 - ⚡ **I consider myself quite sociable but would be shy in getting to know strangers.**
-- 🌹 [Click here](https://wanghoc.github.io/be-happy/) to get some flowers, for no reason at all.
+- 🌹 [Click here](https://wanghoc.github.io/be-happy/) to get some flowers (For no reason at all).
 
 
 <h3 align="left">Connect with me:</h3>
