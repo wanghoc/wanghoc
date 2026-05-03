@@ -1,5 +1,5 @@
 <h1 align="center">Hiii, I'm Quang Học👋</h1>
-<h3 align="center">An IT student from Dalat University. I think I'm a vibe coder 😶‍🌫️</h3>
+<h3 align="center">An IT student from Dalat University. I'm a vibe coder 😶‍🌫️</h3>
 
 About me: [My Portfolio](https://wanghoc.id.vn/)
 
