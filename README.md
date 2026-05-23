@@ -37,13 +37,6 @@
     <a href="https://fb.com/wanghoctrieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wanghoctrieu" height="40" width="50" /></a>
     <a href="https://instagram.com/_wang.hoc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_wang.hoc_" height="40" width="50" /></a>
     <a href="https://discord.gg/wanghoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wanghoc" height="40" width="50" /></a>
+    <h3>🌹 <a href="https://wanghoc.github.io/be-happy/">Click here</a> to get some flowers (For no reason at all).</h3>
   </p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="50" alt="Rose GIF">
-  <h3>🌹 <a href="https://wanghoc.github.io/be-happy/">Click here</a> to get some flowers (For no reason at all).</h3>
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="50" alt="Rose GIF">
 </div>
