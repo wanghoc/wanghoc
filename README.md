@@ -22,7 +22,7 @@
   <p>
     🌱 My coding ability is not very good, <b>But I can analyze requirements quite well.</b><br>
     &nbsp;&nbsp;&nbsp;&nbsp;Of course, I can use AI to build a proficient system.<br><br>
-    📫 Contact to me at: <b>trieuquanghocts@gmail.com</b><br><br>
+    📫 Contact to me at: <b>quanghocdl@gmail.com</b><br><br>
     ⚡ <b>I consider myself quite sociable but would be shy in getting to know strangers.</b>
   </p>
 </div>
